@@ -1,6 +1,6 @@
 title: 概述
 ---
-欢迎使用`前端代码规范`，使用过程中如碰到问题，请到[Github](https://github.com/o2team/guide/issues)进行提问(<font color="#009688">前端拱趴~</font>)。
+欢迎使用`前端代码规范`，使用过程中如碰到问题，请到[Github](https://github.com/niyg/hztCode/issues)进行提问(<font color="#009688">前端拱趴~</font>)。
 
 
 ## 关于

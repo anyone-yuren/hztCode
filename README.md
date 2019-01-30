@@ -8,7 +8,6 @@ Install dependencies:
 
 ``` bash
 $ git clone git@github.com:niyg/hztCode.git
-$ cd guide 
 $ npm install
 ```
 
@@ -37,6 +36,7 @@ $ hexo s --watch
   ```bash
   hexo d -g
   ```
+  发布时，如在站点的子目录底下。url设置成站点发布地址 ，root设置站点底下的文件目录（如开发环境上部署在ue/code/public）则root:ue/code/public/
 
 ## License
 

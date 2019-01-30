@@ -4,10 +4,10 @@ description: "Best Coding Guidelines For Front-End Developer."
 author: 慧政通-NYG
 language: zh-cn
 timezone: UTC
-url: http://gitbub.com/nyg
-root: /
+url: http://192.168.169.57/ue/code/public/
+root: /ue/code/public/
 permalink: news/:year/:month/:day/:title/
-archive_dir: news
+archive_dir: news 
 code_dir: downloads/code
 new_post_name: :year-:month-:day-:title.md # File name of new posts
 post_asset_folder: true
@@ -17,17 +17,17 @@ highlight:
 per_page: 0
 
 theme: navy
-deploy:
-  type: git
-  repo: git@github.com:o2team/guide.git
-  branch: gh-pages
+# deploy:
+#   type: git
+#   repo: git@github.com:o2team/guide.git
+#   branch: gh-pages
 
 disqus_shortname:
 google_analytics: UA-4910098-10
 fb_admins: 100000247608790
 swiftype_key: nxhXzi1rDss_9_P_6zBa
 # twitter: o2circle
-# github: o2team/guide
-# gh:
-#   user: o2team
-#   repo: guide
+github: https://github.com/niyg/hztCode
+gh:
+  user: niyg
+  repo: hztCode
